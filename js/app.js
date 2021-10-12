@@ -1,4 +1,4 @@
-const identifier = 'itt-vue-app'
+const identifier = 'my-vue-app'
 
 const {loadModule} = window['vue3-sfc-loader'];
 const load = (() => {
